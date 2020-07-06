@@ -1,0 +1,55 @@
+[client]:[2018-05-21 17:28:14,949] [client.py|put] [line:202] INFO    : send file info: put|canting.jpg|4979592|b9680ba8a3b07ae5f2f19cdc036adca1
+[client]:[2018-05-21 17:45:35,870] [client.py|put] [line:202] INFO    : send file info: put|canting.jpg|4979592|b9680ba8a3b07ae5f2f19cdc036adca1
+[client]:[2018-05-21 17:48:23,512] [client.py|put] [line:202] INFO    : send file info: put|canting.jpg|4979592|b9680ba8a3b07ae5f2f19cdc036adca1
+[client]:[2018-05-21 17:50:43,917] [client.py|put] [line:202] INFO    : send file info: put|canting.jpg|4979592|b9680ba8a3b07ae5f2f19cdc036adca1
+[client]:[2018-05-21 17:50:44,418] [client.py|put] [line:268] INFO    : upload file</users/yinjia/pycharmprojects/untitled/project/yjftp/canting.jpg> successful
+[client]:[2018-05-21 17:52:34,366] [client.py|put] [line:202] INFO    : send file info: put|canting.jpg|4979592|b9680ba8a3b07ae5f2f19cdc036adca1
+[client]:[2018-05-21 17:52:35,138] [client.py|put] [line:268] INFO    : upload file</users/yinjia/pycharmprojects/untitled/project/yjftp/canting.jpg> successful
+[client]:[2018-05-21 18:03:28,505] [client.py|put] [line:202] INFO    : send file info: put|canting.jpg|4979592|b9680ba8a3b07ae5f2f19cdc036adca1
+[client]:[2018-05-21 18:03:28,941] [client.py|put] [line:256] INFO    : upload file</users/yinjia/pycharmprojects/untitled/project/yjftp/canting.jpg> successful
+[client]:[2018-05-21 18:07:02,104] [client.py|put] [line:202] INFO    : send file info: put|canting.jpg|4979592|b9680ba8a3b07ae5f2f19cdc036adca1
+[client]:[2018-05-21 18:08:42,716] [client.py|put] [line:263] ERROR   : 鏂囦欢涓婁紶澶辫触:[Errno 32] Broken pipe
+[ftpclient]:[2018-05-21 18:08:42,717] [ftpclient.py|run] [line:48] ERROR   : [Errno 32] Broken pipe
+[client]:[2018-05-21 18:17:23,412] [client.py|get] [line:309] INFO    : download file<canting.jpg> from server successful
+[client]:[2018-05-21 18:17:23,427] [client.py|get] [line:313] INFO    : md5 check for file<canting.jpg> succ!
+[client]:[2018-05-21 18:22:52,654] [client.py|put] [line:202] INFO    : send file info: put|canting.jpg|4979592|b9680ba8a3b07ae5f2f19cdc036adca1
+[client]:[2018-05-21 18:23:34,339] [client.py|get] [line:309] INFO    : download file</users/yinjia/pycharmprojects/untitled/project/yjftp/canting.jpg> from server successful
+[client]:[2018-05-21 18:23:34,339] [client.py|get] [line:313] INFO    : md5 check for file</users/yinjia/pycharmprojects/untitled/project/yjftp/canting.jpg> succ!
+[client]:[2018-05-21 18:24:13,319] [client.py|get] [line:309] INFO    : download file</users/yinjia/pycharmprojects/untitled/project/yjftp/canting.jpg> from server successful
+[client]:[2018-05-21 18:24:13,319] [client.py|get] [line:313] INFO    : md5 check for file</users/yinjia/pycharmprojects/untitled/project/yjftp/canting.jpg> succ!
+[client]:[2018-05-21 18:25:39,828] [client.py|get] [line:309] INFO    : download file</users/yinjia/pycharmprojects/untitled/project/yjftp/canting.jpg> from server successful
+[client]:[2018-05-21 18:25:39,829] [client.py|get] [line:313] INFO    : md5 check for file</users/yinjia/pycharmprojects/untitled/project/yjftp/canting.jpg> succ!
+[client]:[2018-05-21 18:27:15,876] [client.py|get] [line:309] INFO    : download file<canting.jpg> from server successful
+[client]:[2018-05-21 18:27:15,877] [client.py|get] [line:313] INFO    : md5 check for file<canting.jpg> succ!
+[client]:[2018-05-21 18:29:18,297] [client.py|get] [line:309] INFO    : download file<11.jpg> from server successful
+[client]:[2018-05-21 18:29:18,332] [client.py|get] [line:313] INFO    : md5 check for file<11.jpg> succ!
+[client]:[2018-05-21 18:29:54,827] [client.py|get] [line:309] INFO    : download file<11.jpg> from server successful
+[client]:[2018-05-21 18:29:54,840] [client.py|get] [line:313] INFO    : md5 check for file<11.jpg> succ!
+[client]:[2018-05-21 18:30:18,237] [client.py|get] [line:309] INFO    : download file<11.jpg> from server successful
+[client]:[2018-05-21 18:30:18,255] [client.py|get] [line:313] INFO    : md5 check for file<11.jpg> succ!
+[client]:[2018-05-22 09:28:43,726] [client.py|put] [line:202] INFO    : send file info: put|11.jpg|4979592|b9680ba8a3b07ae5f2f19cdc036adca1
+[client]:[2018-05-22 09:28:44,501] [client.py|put] [line:260] INFO    : upload file</users/yinjia/pycharmprojects/untitled/project/yjftp/11.jpg> successful
+[client]:[2018-05-22 10:15:51,803] [client.py|get] [line:309] INFO    : download file<11.jpg> from server successful
+[client]:[2018-05-22 10:15:51,820] [client.py|get] [line:313] INFO    : md5 check for file<11.jpg> succ!
+[client]:[2020-05-22 11:12:29,131] [client.py|connect] [line:37] ERROR   : [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+[client]:[2020-05-22 11:12:34,271] [client.py|connect] [line:37] ERROR   : [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+[client]:[2020-05-22 11:17:20,110] [client.py|get] [line:309] INFO    : download file<11.jpg> from server successful
+[client]:[2020-05-22 11:17:20,120] [client.py|get] [line:313] INFO    : md5 check for file<11.jpg> succ!
+[ftpclient]:[2020-05-22 11:19:21,040] [ftpclient.py|run] [line:48] ERROR   : list index out of range
+[client]:[2020-06-30 09:12:10,949] [client.py|connect] [line:37] ERROR   : [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+[client]:[2020-06-30 09:13:27,134] [client.py|get] [line:309] INFO    : download file<11.jpg> from server successful
+[client]:[2020-06-30 09:13:27,136] [client.py|get] [line:313] INFO    : md5 check for file<11.jpg> succ!
+[client]:[2020-07-03 16:22:05,979] [client.py|put] [line:201] INFO    : send file info: put|史镇光简历.pdf|202033|9bc6b07e6dcf56420417140cee5f7a7b
+[client]:[2020-07-03 16:22:07,640] [client.py|put] [line:259] INFO    : upload file<c:\users\zeus\desktop\史镇光简历.pdf> successful
+[client]:[2020-07-06 10:47:14,888] [client.py|connect] [line:36] ERROR   : [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+[client]:[2020-07-06 10:48:49,520] [client.py|put] [line:201] INFO    : send file info: put|attention is all you need.pdf|2201700|68787cc6d61f6a5475534820144c6a13
+[client]:[2020-07-06 10:49:02,167] [client.py|put] [line:201] INFO    : send file info: put|attention is all you need.pdf|2201700|68787cc6d61f6a5475534820144c6a13
+[client]:[2020-07-06 10:49:06,488] [client.py|put] [line:259] INFO    : upload file<d:\学习\知识图谱\attention is all you need.pdf> successful
+[client]:[2020-07-06 10:59:05,958] [client.py|get] [line:308] INFO    : download file<attention is all you need.pdf> from server successful
+[client]:[2020-07-06 10:59:05,979] [client.py|get] [line:312] INFO    : md5 check for file<attention is all you need.pdf> succ!
+[client]:[2020-07-06 11:10:40,294] [client.py|put] [line:201] INFO    : send file info: put|attention is all you need.pdf|2201700|68787cc6d61f6a5475534820144c6a13
+[client]:[2020-07-06 11:10:49,694] [client.py|put] [line:201] INFO    : send file info: put|attention is all you need.pdf|2201700|68787cc6d61f6a5475534820144c6a13
+[client]:[2020-07-06 11:11:30,704] [client.py|put] [line:201] INFO    : send file info: put|attention is all you need.pdf|2201700|68787cc6d61f6a5475534820144c6a13
+[client]:[2020-07-06 11:12:09,127] [client.py|put] [line:201] INFO    : send file info: put|attention is all you need.pdf|2201700|68787cc6d61f6a5475534820144c6a13
+[client]:[2020-07-06 11:12:51,687] [client.py|put] [line:201] INFO    : send file info: put|attention is all you need.pdf|2201700|68787cc6d61f6a5475534820144c6a13
+[client]:[2020-07-06 11:14:10,407] [client.py|put] [line:201] INFO    : send file info: put|attention is all you need.pdf|2201700|68787cc6d61f6a5475534820144c6a13
